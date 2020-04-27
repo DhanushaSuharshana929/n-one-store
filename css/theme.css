@@ -15411,3 +15411,9 @@ a.button24:hover {
 .logo-footer {
     margin-top: -15px;
 }
+.main-content-home.p-b-0 {
+    padding-bottom: 0;
+}
+.logo.logo5.main-logo img {
+    margin-top: -11px;
+}
