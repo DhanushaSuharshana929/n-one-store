@@ -38,9 +38,9 @@
             <div class="header-main">
                 <div class="row">
                     <div class="col-md-3 col-sm-3 col-xs-12">
-                        <div class="logo logo5">
-                            <h1 class="hidden">Super Shop</h1>
-                            <a href="index-2.html"><img src="images/logo/logo.png" alt=""></a>
+                        <div class="logo logo5 main-logo">
+                            <h1 class="hidden">N One Store</h1>
+                            <a href="./"><img src="images/logo/logo.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-md-7 col-sm-6 col-xs-12">
@@ -137,7 +137,7 @@
                             <div class="wrap-category-dropdown">
                                 <ul class="list-category-dropdown">
                                     <li class="has-cat-mega">
-                                        <a href="#">Vegetable <img src="images/home1/cat1.png" alt="" /></a>
+                                        <a href="#">Vegetable </a>
                                         <div class="cat-mega-menu cat-mega-style1">
                                             <div class="row">
                                                 <div class="col-md-8 col-sm-8">
@@ -156,7 +156,7 @@
                                         </div> 
                                     </li>
                                     <li  class="has-cat-mega">
-                                        <a href="#">Fruit<img src="images/home1/cat2.png" alt="" /></a>
+                                        <a href="#">Fruit</a>
                                         <div class="cat-mega-menu cat-mega-style1">
                                             <div class="row">
                                                 <div class="col-md-8 col-sm-8">
@@ -175,7 +175,7 @@
                                         </div> 
                                     </li>
                                     <li  class="has-cat-mega">
-                                        <a href="#">Grains<img src="images/home1/cat2.png" alt="" /></a>
+                                        <a href="#">Grains</a>
                                         <div class="cat-mega-menu cat-mega-style1">
                                             <div class="row">
                                                 <div class="col-md-4 col-sm-8">
@@ -219,7 +219,7 @@
                                         </div> 
                                     </li>
                                     <li  class="has-cat-mega">
-                                        <a href="#">Spices, Flavours<img src="images/home1/cat2.png" alt="" /></a>
+                                        <a href="#">Spices, Flavours</a>
                                         <div class="cat-mega-menu cat-mega-style1">
                                             <div class="row">
                                                 <div class="col-md-8 col-sm-8">
@@ -237,7 +237,7 @@
                                         </div> 
                                     </li>
                                     <li  class="has-cat-mega">
-                                        <a href="#">Oils<img src="images/home1/cat2.png" alt="" /></a>
+                                        <a href="#">Oils</a>
                                         <div class="cat-mega-menu cat-mega-style1">
                                             <div class="row">
                                                 <div class="col-md-8 col-sm-8">
@@ -253,19 +253,19 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="#">Biscuits<img src="images/home1/cat3.png" alt="" /></a>
+                                        <a href="#">Biscuits</a>
                                     </li>
                                     <li>
-                                        <a href="#">Candy, Chocolates<img src="images/home1/cat3.png" alt="" /></a>
+                                        <a href="#">Candy, Chocolates</a>
                                     </li>
                                     <li>
-                                        <a href="#">Cakes<img src="images/home1/cat4.png" alt="" /></a>
+                                        <a href="#">Cakes</a>
                                     </li>
                                     <li>
-                                        <a href="#">Beverage, Tea, Coffee<img src="images/home1/cat5.png" alt="" /></a>
+                                        <a href="#">Beverage, Tea, Coffee</a>
                                     </li>
                                     <li>
-                                        <a href="#">Diary Products<img src="images/home1/cat6.png" alt="" /></a>
+                                        <a href="#">Diary Products</a>
                                     </li>
                                 </ul>
                                 <a href="#" class="expand-category-link"></a>

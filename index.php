@@ -65,7 +65,7 @@
                                 <div class="content-tab-product">
                                     <div id="bestsale" class="tab-pane active">
                                         <div class="product-tab-slider">
-                                            <div class="wrap-item" data-navigation="true" data-pagination="false" data-itemscustom="[[0,1],[480,2],[980,4]]">
+                                            <div class="wrap-item" data-navigation="true" data-pagination="false" data-itemscustom="[[0,1],[560,3],[980,4]]">
                                                 <div class="item">
                                                     <div class="item-product">
                                                         <div class="product-thumb">
@@ -74,11 +74,6 @@
                                                                 <img class="second-thumb" alt="" src="images/products/banana.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -92,11 +87,6 @@
                                                                 <img class="second-thumb" alt="" src="images/products/Lindt Pralines Nougat.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -113,11 +103,6 @@
                                                                 <img class="second-thumb" alt="" src="images/products/grapes-black.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -134,11 +119,6 @@
                                                                 <img class="second-thumb" alt="" src="images/products/leeks.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -155,11 +135,6 @@
                                                                 <img class="second-thumb" alt="" src="images/products/carrot.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -179,11 +154,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/6.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -197,11 +167,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/18.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -218,11 +183,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/22.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -239,11 +199,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/3.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -260,11 +215,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/17.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -278,11 +228,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/21.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -305,11 +250,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/7.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -323,11 +263,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/19.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -344,11 +279,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/23.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -365,11 +295,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/3.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -386,11 +311,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/17.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -404,11 +324,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/21.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -431,11 +346,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/8.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -449,11 +359,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/19.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -470,11 +375,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/22.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -491,11 +391,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/3.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -512,11 +407,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/17.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -530,11 +420,6 @@
                                                                 <img class="second-thumb" alt="" src="images/photos/extras/21.jpg">
                                                             </a>
                                                             <div class="product-info-cart">
-                                                                <div class="product-extra-link">
-                                                                    <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                    <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                    <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                </div>
                                                                 <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                             </div>
                                                         </div>
@@ -553,7 +438,7 @@
                     </div>
                 </div>
                 <!-- End List Tab Product -->
-                <div class="main-content-home">
+                <div class="main-content-home p-b-0">
                     <div class="container">
                         <div class="clearfix category-product-featured blue-box">
                             <div class="category-home-total">
@@ -635,27 +520,27 @@
                                     <div class="wrap-item" data-pagination="false" data-autoplay="true" data-navigation="false" data-itemscustom="[[0, 2],[768, 1]]">
                                         <div class="item">
                                             <div class="item-category-brand">
-                                                <a href="#"><img src="images/home1/pn11.png" alt="" /></a>
+                                                <a href="#"><img src="images/home1/pn10.png" alt="" /></a>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="item-category-brand">
-                                                <a href="#"><img src="images/home1/pn2.png" alt="" /></a>
+                                                <a href="#"><img src="images/home1/pn12.png" alt="" /></a>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="item-category-brand">
-                                                <a href="#"><img src="images/home1/pn3.png" alt="" /></a>
+                                                <a href="#"><img src="images/home1/pn13.png" alt="" /></a>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="item-category-brand">
-                                                <a href="#"><img src="images/home1/pn6.png" alt="" /></a>
+                                                <a href="#"><img src="images/home1/pn16.png" alt="" /></a>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="item-category-brand">
-                                                <a href="#"><img src="images/home1/pn5.png" alt="" /></a>
+                                                <a href="#"><img src="images/home1/pn15.png" alt="" /></a>
                                             </div>
                                         </div>
                                     </div>
@@ -677,11 +562,6 @@
                                                     <img class="second-thumb" src="images/products/Basmati (Red) 5 kg.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -704,11 +584,6 @@
                                                     <img class="second-thumb" src="images/products/Basmati (White) 10 kg.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -734,11 +609,6 @@
                                                     <img class="second-thumb" src="images/products/Basmati (White) 5 kg.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -764,11 +634,6 @@
                                                     <img class="second-thumb" src="images/products/Nadu (White) 5 kg.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -791,11 +656,6 @@
                                                     <img class="second-thumb" src="images/products/Samba (White) 5 kg.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -817,21 +677,6 @@
                             </div>
                         </div>
                         <!-- End Blue Box -->
-                        <div class="box-adv-col2">
-                            <div class="row">
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="item-adv-simple">
-                                        <a href="#"><img src="images/home1/ad3.png" alt="" /></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="item-adv-simple">
-                                        <a href="#"><img src="images/home1/ad4.png" alt="" /></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Box Adv Col2 -->
                         <div class="clearfix category-product-featured green-box">
                             <div class="category-home-total">
                                 <div class="category-home-label">
@@ -952,11 +797,6 @@
                                                     <img class="second-thumb" src="images/products/Chilli Powder red 100g.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -978,11 +818,6 @@
                                                     <img class="second-thumb" src="images/products/Chilli pieces 100g.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -1008,11 +843,6 @@
                                                     <img class="second-thumb" src="images/products/Curry Powder 100g.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -1037,11 +867,6 @@
                                                     <img class="second-thumb" src="images/products/Dried Red Chilli.jpg" alt=""/>
                                                 </a>
                                                 <div class="product-info-cart">
-                                                    <div class="product-extra-link">
-                                                        <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                        <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                        <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                    </div>
                                                     <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                 </div>
                                             </div>
@@ -1091,11 +916,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Basmati (White) 10 kg.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1109,11 +929,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Chilli pieces 100g.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1130,11 +945,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Munchee SUper Cream Cracker 490 g.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1151,11 +961,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/banana.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1178,11 +983,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Munchee SUper Cream Cracker 490 g.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1199,11 +999,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Basmati (White) 10 kg.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1217,11 +1012,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Chilli pieces 100g.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1239,11 +1029,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/banana.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1266,11 +1051,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/banana.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1287,11 +1067,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Basmati (White) 10 kg.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1305,11 +1080,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Chilli pieces 100g.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
@@ -1326,11 +1096,6 @@
                                                                         <img class="second-thumb" alt="" src="images/products/Munchee SUper Cream Cracker 490 g.jpg">
                                                                     </a>
                                                                     <div class="product-info-cart">
-                                                                        <div class="product-extra-link">
-                                                                            <a href="#" class="wishlist-link"><i class="fa fa-heart-o"></i></a>
-                                                                            <a href="#" class="compare-link"><i class="fa fa-toggle-on"></i></a>
-                                                                            <a href="#" class="quickview-link"><i class="fa fa-search"></i></a>
-                                                                        </div>
                                                                         <a href="#" class="addcart-link"><i class="fa fa-shopping-basket"></i> Add to Cart</a>
                                                                     </div>
                                                                 </div>
