@@ -460,19 +460,19 @@ class Order {
 
         $comany_name = "N One Store";
         $website_name = "www.nonestore.lk";
-        $comConNumber = "+7123456789";
-        $comEmail = "info@nonestore.lk";
+        $comConNumber = "+94 11 2883 717 / +94 76 7176 677";
+        $comEmail = "orders@nonestore.lk";
         $site_link = "https://" . $_SERVER['HTTP_HOST'];
 
         //---------------------- SERVER WEBMAIL LOGIN ------------------------
 
-        $host = "sg1-ls7.a2hosting.com";
-        $username = "info@nonestore.lk";
-        $password = 'l^bk?-TE{G,h';
+        $host = "server113.web-hosting.com";
+        $username = "orders@nonestore.lk";
+        $password = 'Orders@nonestore';
 
 //------------------------ MAIL ESSENTIALS --------------------------------
 
-        $webmail = "info@nonestore.lk";
+        $webmail = "orders@nonestore.lk";
         $visitorSubject = "Order Enquiry - #" . $this->id;
 
         $tr = '';
@@ -489,8 +489,8 @@ class Order {
              $tr .= '<td style="text-align: right;">Rs. ' . number_format($product['amount'], 2) . '</td>';
              $tr .= '</tr>';
         }
-        $processing_fee = ($tot + 950) * 3 / 100;
-        $grand_total = $tot + 950 + $processing_fee;
+        // $processing_fee = ($tot + 150) * 3 / 100;
+        $grand_total = $tot + 150;
 
         $status = "";
         if ($this->paymentStatusCode == 2 && $this->status == 1) {
@@ -652,11 +652,7 @@ class Order {
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <th colspan="3" style="text-align: left;">Delivery Charges</th>
-                                                                                        <th style="text-align: right;">Rs. 950.00</th>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <th colspan="3" style="text-align: left;">Online Transaction Processing Fee(3%)</th>
-                                                                                        <th style="text-align: right;">Rs. ' . number_format($processing_fee, 2) . '</th>
+                                                                                        <th style="text-align: right;">Rs. 150.00</th>
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <th colspan="3" style="text-align: left;">Grand Total</th>
@@ -773,19 +769,19 @@ class Order {
 
         $comany_name = "N One Store";
         $website_name = "www.nonestore.lk";
-        $comConNumber = "+7123456789";
-        $comEmail = "info@nonestore.lk";
-        $comOwner = "Freshcart.lk Team";
+        $comConNumber = "+94 11 2883 717 / +94 76 7176 677";
+        $comEmail = "orders@nonestore.lk";
+        $comOwner = "N One Store Team";
 
         //---------------------- SERVER WEBMAIL LOGIN ------------------------
 
-        $host = "sg1-ls7.a2hosting.com";
-        $username = "info@nonestore.lk";
-        $password = 'l^bk?-TE{G,h';
+        $host = "server113.web-hosting.com";
+        $username = "orders@nonestore.lk";
+        $password = 'Orders@nonestore';
 
 //------------------------ MAIL ESSENTIALS --------------------------------
 
-        $webmail = "info@nonestore.lk";
+        $webmail = "orders@nonestore.lk";
         $companySubject = "Order Enquiry - #" . $this->id;
 
         $tr = '';
@@ -800,8 +796,7 @@ class Order {
                         <td style="text-align: right;">Rs. ' . number_format($product['amount'], 2) . '</td>
                     </tr>';
         }
-        $processing_fee = ($tot + 950) * 3 / 100;
-        $grand_total = $tot + 950 + $processing_fee;
+        $grand_total = $tot + 150;
         $status = "";
         if ($this->paymentStatusCode == 2 && $this->status == 1) {
             $status = "Successful.";
@@ -957,11 +952,7 @@ class Order {
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <th colspan="3" style="text-align: left;">Delivery Charges</th>
-                                                                                        <th style="text-align: right;">Rs. 950.00</th>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <th colspan="3" style="text-align: left;">Online Transaction Processing Fee(3%)</th>
-                                                                                        <th style="text-align: right;">Rs. ' . number_format($processing_fee, 2) . '</th>
+                                                                                        <th style="text-align: right;">Rs. 150.00</th>
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <th colspan="3" style="text-align: left;">Grand Total</th>
@@ -1038,19 +1029,19 @@ class Order {
 
         $comany_name = "N One Store";
         $website_name = "www.nonestore.lk";
-        $comConNumber = "+7123456789";
-        $comEmail = "info@nonestore.lk";
+        $comConNumber = "+94 11 2883 717 / +94 76 7176 677";
+        $comEmail = "orders@nonestore.lk";
         $site_link = "https://" . $_SERVER['HTTP_HOST'];
 
         //---------------------- SERVER WEBMAIL LOGIN ------------------------
 
-        $host = "sg1-ls7.a2hosting.com";
-        $username = "info@nonestore.lk";
-        $password = 'l^bk?-TE{G,h';
+        $host = "server113.web-hosting.com";
+        $username = "orders@nonestore.lk";
+        $password = 'Orders@nonestore';
 
 //------------------------ MAIL ESSENTIALS --------------------------------
 
-        $webmail = "info@nonestore.lk";
+        $webmail = "orders@nonestore.lk";
         $visitorSubject = "Order Enquiry - #" . $this->id;
 
         $tr = '';
@@ -1067,8 +1058,7 @@ class Order {
              $tr .= '<td style="text-align: right;">Rs. ' . number_format($product['amount'], 2) . '</td>';
              $tr .= '</tr>';
         }
-        $processing_fee = ($tot + 950) * 3 / 100;
-        $grand_total = $tot + 950 + $processing_fee;
+        $grand_total = $tot + 150;
 
         $status = "";
         if ($this->paymentStatusCode == 2 && $this->status == 1) {
@@ -1155,7 +1145,7 @@ class Order {
                                                                             Then follow the steps mentioned below.<br />
                                                                             01. Make the online transaction.<br />
                                                                             02. Create the screenshot of success report.<br />
-                                                                            03. Email into directinfo@nonestore.lk & whatsapp into 071 890 5282.</p><br />
+                                                                            03. Email into directorders@nonestore.lk & whatsapp into 071 890 5282.</p><br />
                                                                             
                                                                             
                                                                         <p>Please find the attached details of the purchase below. Do not be hesitate to contact us via hotline for any enquiries.</p>
@@ -1242,11 +1232,7 @@ class Order {
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <th colspan="3" style="text-align: left;">Delivery Charges</th>
-                                                                                        <th style="text-align: right;">Rs. 950.00</th>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <th colspan="3" style="text-align: left;">Online Transaction Processing Fee(3%)</th>
-                                                                                        <th style="text-align: right;">Rs. ' . number_format($processing_fee, 2) . '</th>
+                                                                                        <th style="text-align: right;">Rs. 150.00</th>
                                                                                     </tr>
                                                                                     <tr>
                                                                                         <th colspan="3" style="text-align: left;">Grand Total</th>
@@ -1362,19 +1348,19 @@ class Order {
 
         $comany_name = "N One Store";
         $website_name = "www.nonestore.lk";
-        $comConNumber = "+7123456789";
-        $comEmail = "info@nonestore.lk";
+        $comConNumber = "+94 11 2883 717 / +94 76 7176 677";
+        $comEmail = "payments@nonestore.lk";
         $site_link = "https://" . $_SERVER['HTTP_HOST'];
 
         //---------------------- SERVER WEBMAIL LOGIN ------------------------
 
-        $host = "sg1-ls7.a2hosting.com";
-        $username = "info@nonestore.lk";
-        $password = 'l^bk?-TE{G,h';
+        $host = "server113.web-hosting.com";
+        $username = "payments@nonestore.lk";
+        $password = 'Payments@nonestore';
 
 //------------------------ MAIL ESSENTIALS --------------------------------
 
-        $webmail = "info@nonestore.lk";
+        $webmail = "payments@nonestore.lk";
         $visitorSubject = "Order Enquiry - #" . $this->id . " - Payment Not Successful";
 
         $status = "";

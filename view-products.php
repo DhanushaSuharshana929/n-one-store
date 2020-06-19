@@ -32,7 +32,7 @@ if (isset($_GET["page"])) {
 } else {
     $page = 1;
 }
-$setlimit = 21;
+$setlimit = 24;
 
 $pagelimit = ($page * $setlimit) - $setlimit;
 ?>
@@ -137,7 +137,7 @@ $pagelimit = ($page * $setlimit) - $setlimit;
                                             <?php
                                             foreach ($products as $product) {
                                                 ?>
-                                                <div class="col-md-4 col-sm-6">
+                                                <div class="col-md-3 col-sm-4 col-xs-6">
                                                     <div class="item-product">
                                                         <div class="product-thumb">
                                                             <a class="product-thumb-link" href="#">

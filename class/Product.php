@@ -314,8 +314,8 @@ class Product {
                 $add_to_cart = '<a class="addcart-link not-available-btn-hover" class="btn btn-default btn-rounded mb-4"><i class="fa fa-shopping-basket"></i> Not in Stock</a>';
             }
 
-            $out_put .= '<ul class=" product-grid"  >';
-            $out_put .= ' <li class="col-md-4 col-sm-6 col-xs-12">
+            $out_put .= '<ul class="product-grid">';
+            $out_put .= ' <li class="col-md-3 col-sm-4 col-xs-6">
                             <div class="item-product">
                                 <div class="product-thumb">
                                     <a class="product-thumb-link" href="view-product.php?id=' . $row['id'] . '">
@@ -448,8 +448,8 @@ class Product {
                 $add_to_cart = '<a class="addcart-link not-available-btn-hover" class="btn btn-default btn-rounded mb-4"><i class="fa fa-shopping-basket"></i> Not in Stock</a>';
             }
 
-            $out_put .= '<ul class=" product-grid"  >';
-            $out_put .= ' <li class="col-md-4 col-sm-6 col-xs-12">
+            $out_put .= '<ul class="product-grid">';
+            $out_put .= ' <li class="col-md-3 col-sm-4 col-xs-6">
                             <div class="item-product">
                                 <div class="product-thumb">
                                     <a class="product-thumb-link" href="view-product.php?id=' . $row['id'] . '">
@@ -589,8 +589,8 @@ class Product {
                 $add_to_cart = '<a class="addcart-link not-available-btn-hover" class="btn btn-default btn-rounded mb-4"><i class="fa fa-shopping-basket"></i> Not in Stock</a>';
             }
 
-            $out_put .= '<ul class=" product-grid"  >';
-            $out_put .= ' <li class="col-md-4 col-sm-6 col-xs-12">
+            $out_put .= '<ul class="product-grid">';
+            $out_put .= ' <li class="col-md-3 col-sm-4 col-xs-6">
                             <div class="item-product">
                                 <div class="product-thumb">
                                     <a class="product-thumb-link" href="view-product.php?id=' . $row['id'] . '">
@@ -1162,8 +1162,8 @@ class Product {
                 $add_to_cart = '<a class="addcart-link not-available-btn-hover" class="btn btn-default btn-rounded mb-4"><i class="fa fa-shopping-basket"></i> Not in Stock</a>';
             }
 
-            $out_put .= '<ul class=" product-grid"  >';
-            $out_put .= ' <li class="col-md-4 col-sm-6 col-xs-12">
+            $out_put .= '<ul class="product-grid">';
+            $out_put .= ' <li class="col-md-3 col-sm-4 col-xs-6">
                             <div class="item-product">
                                 <div class="product-thumb">
                                     <a class="product-thumb-link" href="view-product.php?id=' . $row['id'] . '">

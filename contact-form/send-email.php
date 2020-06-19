@@ -11,7 +11,7 @@ $site_link = "http://" . $_SERVER['HTTP_HOST'];
 //----------------------- DISPLAY STRINGS ---------------------
 $comany_name = "N One Store";
 $website_name = "www.nonestore.lk";
-$comConNumber = "+94 71 234 5678";
+$comConNumber = "+94 11 2883 717 / +94 76 7176 677";
 $comEmail = "info@nonestore.lk";
 $comOwner = "N One Store Team";
 $customer_msg = 'Hello, and thank you for your interest in ' . $comany_name . '. We have received your enquiry, and we will get back to you as soon as possible.';
@@ -31,9 +31,9 @@ $message = $_POST['message'];
 
 //---------------------- SERVER WEBMAIL LOGIN ------------------------
 
-$host = "sg1-ls7.a2hosting.com";
+$host = "server113.web-hosting.com";
 $username = "info@nonestore.lk";
-$password = 'l^bk?-TE{G,h';
+$password = 'Info@nonestore';
 
 //------------------------ MAIL ESSENTIALS --------------------------------
 
