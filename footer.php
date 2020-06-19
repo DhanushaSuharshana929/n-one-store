@@ -1,3 +1,50 @@
+<a href="cart.php">
+    <div class="cart-icon-xs visible-xs">
+        <span class="cart-badge cart-badge-xs">0</span>
+    </div>
+</a>
+<div class="container">
+    <div class="list-service2 payment-details">
+        <div class="row">
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="item-service2">
+                    <div class="service-thumb2">
+                        <a href="#"><img src="images/home2/od3.png" alt=""></a>
+                    </div>
+                    <div class="service-info2">
+                        <h2>Delivery in Colombo</h2>
+                        <span>Same Day Delivery is Available for Selected Products.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="item-service2">
+                    <div class="service-thumb2">
+                        <a href="#"><img src="images/home2/od2.png" alt=""></a>
+                    </div>
+                    <div class="service-info2">
+                        <h2>Multiple Payment Options</h2>
+                        <span>Credit Cards, Debit Cards, Bank Transfer</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="item-service2">
+                    <div class="service-thumb2">
+                        <a href="#"><img src="images/home2/od4.png" alt=""></a>
+                    </div>
+                    <div class="service-info2 service-info2-1">
+                        <h2>Secured Payments</h2>
+                        <span>Visa/ MasterCard/ American Express/ Discover/ Diners Club/ Ez Cash/ Genie/ M Cash/ Frimi</span>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+    <!-- End List Service -->
+</div>
 <div id="footer">
     <div class="footer footer-home">
         <div class="container">
@@ -26,9 +73,9 @@
                                 <?php
                                 foreach (ProductCategories::all() as $key => $cat) {
                                     if ($key < 4) {
-                                        ?>
+                                ?>
                                         <li><a href="view-sub-categories.php?id=<?php echo $cat['id']; ?>"><?php echo $cat['name']; ?></a></li>
-                                        <?php
+                                <?php
                                     }
                                 }
                                 ?>
@@ -42,9 +89,9 @@
                                 <?php
                                 foreach (Brand::all() as $key => $brand) {
                                     if ($key < 4) {
-                                        ?>
+                                ?>
                                         <li><a href="view-products-by-brand.php?id=<?php echo $brand['id']; ?>"><?php echo $brand['name']; ?></a></li>
-                                        <?php
+                                <?php
                                     }
                                 }
                                 ?>
@@ -65,8 +112,8 @@
                         <div class="footer-box">
                             <h2>Contact Us</h2>
                             <ul class="footer-box-contact">
-                                <li><i class="fa fa-home"></i> No. 55, Isipathanarama rd, Maharagama.</li>
-                                <li><i class="fa fa-mobile"></i> +94 11 366 3500 </li>
+                                <li><i class="fa fa-home"></i> 563/16 Sarasavi Mawatha, Nawala road, Rajagiriya.</li>
+                                <li><i class="fa fa-mobile"></i> +94 11 2883 717 / +94 76 7176 677</li>
                                 <li><i class="fa fa-envelope"></i> <a href="mailto:info@nonestore.lk">info@nonestore.lk</a></li>
                             </ul>
                         </div>

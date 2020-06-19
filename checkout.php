@@ -96,8 +96,8 @@ if (isset($_GET["order_id"])) {
                                     }
                                     ?>
                                 </div>
-                                <!--<form method="post" action="" name="contact-from" id="payments" class="booking-form">-->   
-                                <form method="post" action="https://www.payhere.lk/pay/checkout" name="contact-from" id="payments" class="booking-form"> 
+                                <!-- <form method="post" action="https://www.payhere.lk/pay/checkout" name="contact-from" id="payments" class="booking-form">  -->
+                                <form method="post" action="https://sandbox.payhere.lk/pay/checkout" name="contact-from" id="payments" class="booking-form"> 
                                     <div class="row">
                                         <div class="col-md-6 col-sm-6 col-ms-12">
                                             <div class="check-billing">
@@ -218,29 +218,29 @@ if (isset($_GET["order_id"])) {
 
                                                     <tr class="cart_item">
                                                         <td class="product-name">
-                                                            Delivery Charges 
+                                                            Delivery Charges
                                                         </td>
                                                         <td class="product-total text-right">
-                                                            Rs 950.00						
+                                                            Rs 150.00						
                                                         </td>
                                                     </tr>
-                                                    <tr class="cart_item">
+                                                    <!-- <tr class="cart_item">
                                                         <td class="product-name">
                                                             Online Transaction Processing Fee(3%) 
                                                         </td>
                                                         <td class="product-total text-right">
                                                             <?php
-                                                            $processing_fee = ($tot + 950) * 3 / 100;
-                                                            echo 'Rs. ' . number_format($processing_fee, 2);
+                                                            // $processing_fee = ($tot +150);
+                                                            // echo 'Rs. ' . number_format($processing_fee, 2);
                                                             ?>					
                                                         </td>
-                                                    </tr>
+                                                    </tr> -->
 
                                                 </tbody>
                                                 <tfoot>
                                                     <tr class="order-total">
                                                         <?php
-                                                        $grand_total = $tot + 950 + $processing_fee;
+                                                        $grand_total = $tot + 150;
                                                         ?>	
                                                         <th>Grand Total</th>
                                                         <td class="text-right"><strong><span class="amount">Rs. <?php echo number_format($grand_total, 2); ?></span></strong> </td>
@@ -284,10 +284,11 @@ if (isset($_GET["order_id"])) {
                                         </div>
 
 
-                                        <input type="hidden" name="merchant_id" value="213461">  <!-- Replace your Sandbox Merchant ID 1213903-->
-                                        <input type="hidden" name="return_url" value="https://www.nonestore.lk/checkout.php">
-                                        <input type="hidden" name="cancel_url" value="https://www.nonestore.lk/checkout?cancel">
-                                        <input type="hidden" name="notify_url" value="https://www.nonestore.lk/payments/notify.php">  
+                                        <!-- <input type="hidden" name="merchant_id" value="214743">  Live Merchant ID -->
+                                        <input type="hidden" name="merchant_id" value="1213021">  <!-- Sandbox Merchant ID-->
+                                        <input type="hidden" name="return_url" value="http://www.nonestore.lk/checkout.php">
+                                        <input type="hidden" name="cancel_url" value="http://www.nonestore.lk/checkout?cancel">
+                                        <input type="hidden" name="notify_url" value="http://www.nonestore.lk/payments/notify.php">  
 
                                         <input type="hidden" name="order_id" id="current_order_id" value="">
                                         <input type="hidden" name="items" value="<?php echo $items ?>">
@@ -301,8 +302,9 @@ if (isset($_GET["order_id"])) {
                                         
                                         <input type="hidden" id="txtDistrict"  value="<?php echo $DISTRICT->name; ?>">
                                         <input type="hidden" id="txtCity" value="<?php echo $CITY->name; ?>">
+                                        <input type="hidden" id="txtCountry" name="country" value="Sri Lanka">
 
-                                        </form>
+                                        
 
                                         <!-- Modal -->
                                         <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -329,6 +331,7 @@ if (isset($_GET["order_id"])) {
                                         </div>
 
                                     </div>
+                                    </form>
                             </div>
                         </div>
                     </div>
@@ -341,7 +344,6 @@ if (isset($_GET["order_id"])) {
         </div>
         <!--<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>-->
         <script type="text/javascript" src="js/libs/jquery-3.1.1.min.js"></script>
-        <script src="js/ajax/order.js" type="text/javascript"></script>
         <script type="text/javascript" src="js/libs/bootstrap.min.js"></script>
         <script src="control-panel/plugins/sweetalert/sweetalert.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="js/libs/jquery.fancybox.js"></script>

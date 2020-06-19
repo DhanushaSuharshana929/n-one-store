@@ -35,7 +35,7 @@ if (!empty($_SESSION["shopping_cart"])) {
                 . '<td class="product-remove">' . $value["product_name"] . '</td>'
                 . '<td class="product-remove text-right">Rs: ' . number_format($value["product_price"], 2) . '</td>'
                 . '<td class="product-remove">'
-                . ' <div class="input-group" style="width: 70%"> '
+                . ' <div class="input-group cart-quantity-input"> '
                 . ' <input type="number" name="quantity" id="quantity' . $PRODUCT->id . '" min="' . $PRODUCT->min_qty . '" max="' . $PRODUCT->max_qty . '" step="' . $PRODUCT->min_qty . '"  class="quty-size form-control  text-center quantity qty-input"  product_id=' . $value["product_id"] . ' value="' . $value["product_quantity"] . '"/>
                      </div> '
                 . '</td>'

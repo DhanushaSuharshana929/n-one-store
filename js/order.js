@@ -2,10 +2,10 @@ $(document).ready(function () {
 
     $('#place_order').click(function (e) {
         e.preventDefault();
-        if ($(this).attr("prod-total") < 3000) {
+        if ($(this).attr("prod-total") < 300) {
             swal({
                 title: "Error!",
-                text: "The total amount should be more than Rs 3,000.00!",
+                text: "The total amount should be more than Rs 300!",
                 type: 'error',
                 timer: 2000,
                 showConfirmButton: true

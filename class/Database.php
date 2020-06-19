@@ -13,15 +13,15 @@
  * */
 class Database {
 
-    private $host = 'localhost';
-    private $name = 'synoteca_n_one_store';
-    private $user = 'synoteca_main';
-    private $password = '3rTI#)-vDmAKczXQ-J';
+//    private $host = 'localhost';
+//    private $name = 'synoteca_n_one_store';
+//    private $user = 'synoteca_main';
+//    private $password = '3rTI#)-vDmAKczXQ-J';
     
-    // private $host = 'localhost';
-    // private $name = 'n_one_store';
-    // private $user = 'root';
-    // private $password = '';
+     private $host = 'localhost';
+     private $name = 'n_one_store';
+     private $user = 'root';
+     private $password = '';
 
     public function __construct() {
 

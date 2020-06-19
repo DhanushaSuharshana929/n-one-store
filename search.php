@@ -56,7 +56,7 @@ $products = Product::search($category1, $keyword, $pagelimit, $setlimit);
 
             <?php include './header.php'; ?> 
             <!-- End Header -->
-            <div id="content" >
+            <div id="content" class="search-page">
                 <div class="content-shop" >
                     <div class="row"  >
                         <div class="container" >
@@ -69,7 +69,7 @@ $products = Product::search($category1, $keyword, $pagelimit, $setlimit);
                                             $price = $product['price'] - ($product['price'] * $product['discount'] / 100);
                                             $BRAND = new Brand($product['brand']);
                                             ?>
-                                            <li class="col-md-3 col-sm-4 col-xs-12">
+                                            <li class="col-md-2 col-sm-3 col-xs-6">
                                                 <div class="item-product">
                                                     <div class="product-thumb">
                                                         <a class="product-thumb-link" href="view-product.php?id=<?php echo $product['id']; ?>">

@@ -739,34 +739,34 @@ $(document).ready(function () {
         });
         return false;
     });
-//Check Order is 4000?
+//Check Order is 300?
 
     $(document).on('click', '#cart-form', function () {
 
         var total_price = $('#total_price').val();
 
-        if (total_price < 4000) {
+        if (total_price < 300) {
             event.preventDefault();
             swal({
                 title: "Less Amount!",
-                text: "The total amount should be more than Rs 4,000",
+                text: "The total amount should be more than Rs 300",
                 type: "info",
                 confirmButtonColor: "#eb9316",
                 confirmButtonText: "Ok",
                 closeOnConfirm: true
             });
         }
-        if (total_price > 3000000) {
-            event.preventDefault();
-            swal({
-                title: "Max Amount!",
-                text: "The total amount should be less than Rs 30,000",
-                type: "info",
-                confirmButtonColor: "#eb9316",
-                confirmButtonText: "Ok",
-                closeOnConfirm: true
-            });
-        }
+        // if (total_price > 3000000) {
+        //     event.preventDefault();
+        //     swal({
+        //         title: "Max Amount!",
+        //         text: "The total amount should be less than Rs 30,000",
+        //         type: "info",
+        //         confirmButtonColor: "#eb9316",
+        //         confirmButtonText: "Ok",
+        //         closeOnConfirm: true
+        //     });
+        // }
 
 
     });

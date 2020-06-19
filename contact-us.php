@@ -56,7 +56,7 @@ if (!isset($_SESSION)) {
                                         <h2><i class="fa fa-phone"></i> : Call Us</h2>
                                         <ul class="list-group">
                                             <li class="list-group-item">
-                                                <a href="tel:+94716667557"> +94 71 234 5678 </a> 
+                                                <a href="tel:+94716667557"> +94 11 2883 717 / +94 76 7176 677 </a> 
                                             </li>
                                            
                                         </ul>
@@ -67,7 +67,7 @@ if (!isset($_SESSION)) {
                                         <h2><i class="fa fa-envelope-o"></i> : Write Us</h2>
                                         <ul class="list-group">
                                             <li class="list-group-item">
-                                                <a href="mailto:orders@freshcart.lk">info@nonestore.lk</a> 
+                                                <a href="mailto:info@nonestore.lk">info@nonestore.lk</a> 
                                             </li> 
                                         </ul>
                                     </div>
@@ -77,7 +77,7 @@ if (!isset($_SESSION)) {
                                         <h2><i class="fa fa-map-marker"></i> : Visit Us</h2>
                                         <ul class="list-group">
                                             <li class="list-group-item">
-                                                <a>Galle: No. 03, Sri Dewamiththa Road, Galle.</a>
+                                                <a>563/16, Sarasavi Mawatha, Nawala road, Rajagiriya.</a>
                                             </li>
                                         </ul>
                                     </div>

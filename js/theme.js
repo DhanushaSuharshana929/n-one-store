@@ -1,6 +1,6 @@
 (function ($) {
     "use strict"; // Start of use strict
-//Slider Background
+    //Slider Background
     function background() {
         $('.bg-slider .item-slider').each(function () {
             var src = $(this).find('.banner-thumb a img').attr('src');
@@ -31,12 +31,12 @@
         this.$elem.find('.owl-item').eq(first_item).addClass('first-item');
         this.$elem.find('.owl-item').eq(last_item).addClass('last-item');
     }
-//Document Ready
+    //Document Ready
     jQuery(document).ready(function () {
         //Back To Top
         $('.back-to-top').on('click', function (event) {
             event.preventDefault();
-            $('html, body').animate({scrollTop: 0}, 'slow');
+            $('html, body').animate({ scrollTop: 0 }, 'slow');
         });
         //Menu Responsive
         if ($(window).width() < 768) {
@@ -544,7 +544,7 @@
             $('.qty-down').on('click', function (event) {
                 event.preventDefault();
                 qtyval = qtyval - 1;
-                 var pro = $(this).attr('pro');
+                var pro = $(this).attr('pro');
                 if (qtyval > 0) {
                     $(this).next().text(qtyval);
                 } else {
@@ -595,14 +595,27 @@
                 max: 500,
                 values: [70, 350],
                 slide: function (event, ui) {
-                    $("#amount").html("<span>" + ui.values[ 0 ] + "</span>" + " - " + "<span>" + ui.values[ 1 ] + "</span>");
+                    $("#amount").html("<span>" + ui.values[0] + "</span>" + " - " + "<span>" + ui.values[1] + "</span>");
                 }
             });
             $(".range-filter #amount").html("<span>" + $("#slider-range").slider("values", 0) + "</span>" + " - " + "<span>" + $("#slider-range").slider("values", 1) + "</span>");
         }
         //End Widget Shop
+
+
+        // Sticky Header
+
+        window.onscroll = function () {
+            var currentScrollPos = window.pageYOffset;
+            if (currentScrollPos > 250) {
+                $('.header-main').addClass('fixed-header');
+            } else {
+                $('.header-main').removeClass('fixed-header');
+            }
+        };
+        // End Sticky Header
     });
-//Window Load
+    //Window Load
     jQuery(window).on('load', function () {
         //Sticker Slider
         if ($('.bxslider-ticker').length > 0) {
