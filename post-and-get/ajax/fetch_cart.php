@@ -29,7 +29,7 @@ if (!empty($_SESSION["shopping_cart"])) {
         $PRODUCT = new Product($value["product_id"]);
 
         $output .= '<tr class="cart_item">'
-                . '<td class="product-remove" >'
+                . '<td class="product-remove product-image" >'
                 . '<img src="upload/product-categories/sub-category/product/photos/' . $PRODUCT->image_name . '" width="30%"/>'
                 . '</td>'
                 . '<td class="product-remove">' . $value["product_name"] . '</td>'

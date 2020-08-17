@@ -3,37 +3,37 @@
         <span class="cart-badge cart-badge-xs">0</span>
     </div>
 </a>
-<div class="container">
+<div class="payment-details-section container">
     <div class="list-service2 payment-details">
         <div class="row">
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4 col-sm-4 col-xs-4 col-xs-pull-0">
                 <div class="item-service2">
-                    <div class="service-thumb2">
+                    <div class="service-thumb2 col-xs-12">
                         <a href="#"><img src="images/home2/od3.png" alt=""></a>
                     </div>
-                    <div class="service-info2">
+                    <div class="service-info2 col-xs-12">
                         <h2>Delivery in Colombo</h2>
                         <span>Same Day Delivery is Available for Selected Products.</span>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4 col-sm-4 col-xs-4 col-xs-push-4">
                 <div class="item-service2">
-                    <div class="service-thumb2">
+                    <div class="service-thumb2 col-xs-12">
                         <a href="#"><img src="images/home2/od2.png" alt=""></a>
                     </div>
-                    <div class="service-info2">
+                    <div class="service-info2 col-xs-12">
                         <h2>Multiple Payment Options</h2>
                         <span>Credit Cards, Debit Cards, Bank Transfer</span>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4 col-sm-4 col-xs-4 col-xs-pull-4">
                 <div class="item-service2">
-                    <div class="service-thumb2">
+                    <div class="service-thumb2 col-xs-12">
                         <a href="#"><img src="images/home2/od4.png" alt=""></a>
                     </div>
-                    <div class="service-info2 service-info2-1">
+                    <div class="service-info2 service-info2-1 col-xs-12">
                         <h2>Secured Payments</h2>
                         <span>Visa/ MasterCard/ American Express/ Discover/ Diners Club/ Ez Cash/ Genie/ M Cash/ Frimi</span>
                     </div>

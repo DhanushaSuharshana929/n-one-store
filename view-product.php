@@ -45,8 +45,8 @@ $price1 = $PRODUCT->price - $discount1;
             <div id="content">
                 <div class="content-shop">
                     <div class="container">
-                        <div class="row">
-                            <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="row view-product-section">
+                            <div class="col-md-3 col-sm-4 col-xs-12 related-products">
                                 <div class="sidebar-shop sidebar-left">
                                     <div class="widget widget-related-product">
                                         <h2 class="widget-title">RELATED PRODUCTS</h2>
@@ -91,7 +91,7 @@ $price1 = $PRODUCT->price - $discount1;
                                 </div>
                                 <!-- End Sidebar Shop -->
                             </div>
-                            <div class="col-md-9 col-sm-8 col-xs-12">
+                            <div class="col-md-9 col-sm-8 col-xs-12 product-details">
                                 <div class="main-content-shop">
                                     <div class="main-detail">
                                         <div class="row">
