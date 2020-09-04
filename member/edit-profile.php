@@ -203,7 +203,6 @@ $CITY = new City($CUSTOMER->city);
 
                                                 </form>
                                                 <div class="row clearfix">  </div>
-                                                <hr/>
                                                 </form>
                                             </div>
                                         </div>

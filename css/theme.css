@@ -718,7 +718,7 @@ a:focus {
     position: absolute;
     top: 100%;
     width: 100%;
-    z-index: 99;
+    z-index: 99999;
 }
 
 .list-category-dropdown {

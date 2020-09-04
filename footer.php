@@ -112,7 +112,7 @@
                         <div class="footer-box">
                             <h2>Contact Us</h2>
                             <ul class="footer-box-contact">
-                                <li><i class="fa fa-home"></i> 563/16 Sarasavi Mawatha, Nawala road, Rajagiriya.</li>
+                                <li class="hidden"><i class="fa fa-home"></i> 563/16 Sarasavi Mawatha, Nawala road, Rajagiriya.</li>
                                 <li><i class="fa fa-mobile"></i> +94 11 2883 717 / +94 76 7176 677</li>
                                 <li><i class="fa fa-envelope"></i> <a href="mailto:info@nonestore.lk">info@nonestore.lk</a></li>
                             </ul>

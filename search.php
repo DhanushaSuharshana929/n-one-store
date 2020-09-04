@@ -50,10 +50,11 @@ $products = Product::search($category1, $keyword, $pagelimit, $setlimit);
     <link rel="stylesheet" type="text/css" href="css/responsive.css" media="all" />
     <link href="control-panel/plugins/sweetalert/sweetalert.css" rel="stylesheet" type="text/css" />
     <link href="css/modle-login.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="css/header/style.css" />
 </head>
 
 <body>
-    <div class="wrap">
+    <div class="page-wrapper wrap chiller-theme">
 
         <?php include './header.php'; ?>
         <!-- End Header -->
@@ -219,6 +220,7 @@ $products = Product::search($category1, $keyword, $pagelimit, $setlimit);
     <script src="js/header.js" type="text/javascript"></script>
     <script src="js/add-to-cart.js" type="text/javascript"></script>
     <script src="js/login.js" type="text/javascript"></script>
+    <script src="js/header/custom.js" type="text/javascript"></script>
 </body>
 
 </html>

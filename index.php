@@ -27,18 +27,17 @@ if (!isset($_SESSION)) {
     <link rel="stylesheet" type="text/css" href="css/libs/owl.carousel.css" />
     <link rel="stylesheet" type="text/css" href="css/libs/owl.transitions.css" />
     <link rel="stylesheet" type="text/css" href="css/libs/owl.theme.css" />
-    <link rel="stylesheet" type="text/css" href="css/libs/query.mCustomScrollbar.html" />
     <link rel="stylesheet" type="text/css" href="css/libs/settings.css" />
     <link rel="stylesheet" type="text/css" href="css/theme.css" media="all" />
     <link rel="stylesheet" type="text/css" href="css/responsive.css" media="all" />
-    <link href="control-panel/plugins/sweetalert/sweetalert.css" rel="stylesheet" type="text/css" />
     <link href="css/login-css.css" rel="stylesheet" type="text/css" />
+    <link href="control-panel/plugins/sweetalert/sweetalert.css" rel="stylesheet" type="text/css" />
     <link href="css/modle-login.css" rel="stylesheet" type="text/css" />
-    <!-- <link rel="stylesheet" type="text/css" href="css/rtl.css" media="all"/> -->
+    <link rel="stylesheet" type="text/css" href="css/header/style.css" />
 </head>
 
 <body>
-    <div class="wrap">
+    <div class="page-wrapper wrap chiller-theme">
         <?php
         include './header.php';
         ?>
@@ -423,6 +422,7 @@ if (!isset($_SESSION)) {
     <script type="text/javascript" src="js/theme.js"></script>
     <script src="js/add-to-cart.js" type="text/javascript"></script>
     <script src="js/login.js" type="text/javascript"></script>
+    <script src="js/header/custom.js" type="text/javascript"></script>
 </body>
 
 </html>
